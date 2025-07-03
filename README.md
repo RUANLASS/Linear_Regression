@@ -6,7 +6,8 @@ Different files:
 1. basic.py => simple model using simple 3x4 and 1x3 matrix with given values, using linear regression model, with squared error cost function and gradient descent optimization algorithm.
 2. data.py + linear_reg_1.py =>
    - model using an actual dataset, with linear regression model, squared error cost, gradient descent optimization
+   - data preprocessing -> implemented data validation techniques to identify and resolve potentially error-causing or inconsistent entries, enhancing the dataset's reliability 
    - used feature scaling from scratch for optimal convergence of gradient descent
-   - carried out data cleaning operations to fix errors
-   - prediction accuracy was, however, extremely low.
+   - carried out data cleaning operations to fix errors in the dataset
+   - prediction accuracy was, however, extremely low
       
