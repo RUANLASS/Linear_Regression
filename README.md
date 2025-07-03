@@ -8,4 +8,5 @@ Different files:
    - model using an actual dataset, with linear regression model, squared error cost, gradient descent optimization
    - used feature scaling from scratch for optimal convergence of gradient descent
    - carried out data cleaning operations to fix errors
-   - prediction accuracy still low. 
+   - prediction accuracy was, however, extremely low.
+      
