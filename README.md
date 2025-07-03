@@ -1,4 +1,4 @@
-# Linear_Regression
+# Linear Regression
 
 Learning process of building basic linear regression model using California housing prices dataset from Kaggle. All models are built using only Numpy and Pandas. 
 
