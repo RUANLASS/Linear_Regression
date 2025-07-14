@@ -1,6 +1,6 @@
-# Linear Regression
+# Learning Process
 
-Learning process of building basic linear regression model using California housing prices dataset from Kaggle. All models are built using only Numpy and Pandas. 
+Dataset used: California Housing Prices dataset from Kaggle. 
 
 Different files:
 1. basic.py => simple model using simple 3x4 and 1x3 matrix with given values, using linear regression model, with squared error cost function and gradient descent optimization algorithm.
